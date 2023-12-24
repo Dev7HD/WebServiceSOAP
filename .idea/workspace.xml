@@ -4,47 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="315d135c-aa8e-4707-9717-ca34843684da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/.wsdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/1.wsdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/2.wsdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/3.wsdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/4.wsdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/5.wsdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/BanqueApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/BanqueApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/Compte.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/Compte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/ConversionEURMAD.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/ConversionEURMAD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/ConversionEURMADResponse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/ConversionEURMADResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/GetCompte.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/GetCompte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/GetCompteResponse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/GetCompteResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/ListComptes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/ListComptes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/ListComptesResponse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/ListComptesResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/ObjectFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/ObjectFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/WsBanqueApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/WsBanqueApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/package-info.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/ws/BanqueApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/ws/Compte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/ws/WebServer.java" afterDir="false" />
+    <list default="true" id="315d135c-aa8e-4707-9717-ca34843684da" name="Changes" comment="Creation du web service">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,8 +91,17 @@
       <option name="presentableId" value="Default" />
       <updated>1703418140265</updated>
       <workItem from="1703418141362" duration="1891000" />
-      <workItem from="1703420040345" duration="1196000" />
+      <workItem from="1703420040345" duration="1521000" />
     </task>
+    <task id="LOCAL-00001" summary="Creation du web service">
+      <option name="closed" value="true" />
+      <created>1703421284551</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703421284551</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,5 +109,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Creation du web service" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creation du web service" />
   </component>
 </project>
