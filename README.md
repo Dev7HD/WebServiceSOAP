@@ -13,7 +13,7 @@ Ce projet Java illustre la mise en œuvre d'un service web simple en utilisant l
 3. **WebServer**
     - La classe principale qui publie `JWS_App` en tant que service web à une adresse spécifiée.
 
-## Screenshots
+## Captures d'écran
 ![Demarrage du serveur](./screenshots/Demarrageduserveur.png)
 ![Convertion du EUR vers MAD](./screenshots/convertEUR_MAD.png)
 ![Methode getCompte](./screenshots/getCompte.png)
