@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="315d135c-aa8e-4707-9717-ca34843684da" name="Changes" comment="Ajout des captures d'écran">
-      <change beforePath="$PROJECT_DIR$/screen shots/Demarrage du serveur.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screen shots/convertEUR_MAD.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screen shots/getCompte.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screen shots/listComptes.png" beforeDir="false" />
-    </list>
+    <list default="true" id="315d135c-aa8e-4707-9717-ca34843684da" name="Changes" comment="Ajout des captures d'écran" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,7 +92,7 @@
       <option name="presentableId" value="Default" />
       <updated>1703418140265</updated>
       <workItem from="1703418141362" duration="1891000" />
-      <workItem from="1703420040345" duration="1992000" />
+      <workItem from="1703420040345" duration="2478000" />
     </task>
     <task id="LOCAL-00001" summary="Creation du web service">
       <option name="closed" value="true" />
@@ -123,11 +118,30 @@
       <option name="project" value="LOCAL" />
       <updated>1703421709778</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Ajout des captures d'écran">
+      <option name="closed" value="true" />
+      <created>1703422059884</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703422059884</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
