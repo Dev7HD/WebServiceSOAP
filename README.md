@@ -15,6 +15,7 @@ Ce projet Java illustre la mise en œuvre d'un service web simple en utilisant l
 
 ## Captures d'écran
 ![Demarrage du serveur](./screenshots/Demarrageduserveur.png)
+![WSDL](./screenshots/WSDL.png)
 ![Convertion du EUR vers MAD](./screenshots/convertEUR_MAD.png)
 ![Methode getCompte](./screenshots/getCompte.png)
 ![Methode listComptes](./screenshots/listComptes.png)
