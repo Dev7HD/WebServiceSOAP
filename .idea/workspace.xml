@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="315d135c-aa8e-4707-9717-ca34843684da" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/.wsdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/1.wsdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/2.wsdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/3.wsdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/4.wsdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/5.wsdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/BanqueApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/BanqueApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/Compte.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/Compte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/ConversionEURMAD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/ConversionEURMAD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/ConversionEURMADResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/ConversionEURMADResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/GetCompte.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/GetCompte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/GetCompteResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/GetCompteResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/ListComptes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/ListComptes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/ListComptesResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/ListComptesResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/ObjectFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/ObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/WsBanqueApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/WsBanqueApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/package-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/java/proxy/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/ws/BanqueApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/ws/Compte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/ws/WebServer.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2ZzHlZdqtg9HfKJcgN6ml9LeYKd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.WebServer.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "openjdk-21",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "F:/JAVA_Avancé/WebServiceSOAP_XML/Serveur/src/main/java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\JAVA_Avancé\WebServiceSOAP_XML\Serveur\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="WebServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ws.WebServer" />
+      <module name="server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WebServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-249ae16d76d6-98297cd8" />
+        <option value="jdk-21.0.1-openjdk-21.0.1-249ae16d76d6-a618e4d4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="315d135c-aa8e-4707-9717-ca34843684da" name="Changes" comment="" />
+      <created>1703418140265</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703418140265</updated>
+      <workItem from="1703418141362" duration="1891000" />
+      <workItem from="1703420040345" duration="1196000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
