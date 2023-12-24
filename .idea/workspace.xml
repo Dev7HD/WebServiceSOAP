@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="315d135c-aa8e-4707-9717-ca34843684da" name="Changes" comment="Creation du web service">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="315d135c-aa8e-4707-9717-ca34843684da" name="Changes" comment="Ajout des captures d'écran">
+      <change beforePath="$PROJECT_DIR$/screen shots/Demarrage du serveur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screen shots/convertEUR_MAD.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screen shots/getCompte.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screen shots/listComptes.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +27,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -91,7 +97,7 @@
       <option name="presentableId" value="Default" />
       <updated>1703418140265</updated>
       <workItem from="1703418141362" duration="1891000" />
-      <workItem from="1703420040345" duration="1521000" />
+      <workItem from="1703420040345" duration="1992000" />
     </task>
     <task id="LOCAL-00001" summary="Creation du web service">
       <option name="closed" value="true" />
@@ -101,7 +107,23 @@
       <option name="project" value="LOCAL" />
       <updated>1703421284551</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Ajout du compte rendu 'README.md'">
+      <option name="closed" value="true" />
+      <created>1703421600830</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703421600830</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Ajout des captures d'écran">
+      <option name="closed" value="true" />
+      <created>1703421709778</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703421709778</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +132,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Creation du web service" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creation du web service" />
+    <MESSAGE value="Ajout du compte rendu 'README.md'" />
+    <MESSAGE value="Ajout des captures d'écran" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajout des captures d'écran" />
   </component>
 </project>
